@@ -1,5 +1,7 @@
 # Machine Learning - Regression: House Pricing Models Comparison
 
+**Main Objective:** Perform the steps requested and find the best regression model.
+
   This is a full Data Science project with the objective to train
   and compare Machine Learning Regression Models for a House Sales in 
   King County, USA.
@@ -25,9 +27,10 @@
   the polynomial transformation of those same features, and I got a better model,
   with R-squared of 70%.
 
-**Results:**
+**Results:** The Combination of Ridge Regression and Polynomial transformation applied to
+the top11 most correlated features resulted in the best model, with a score of 70%.
 
-**Packages:** Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn 
+**Packages:** Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn
 
-**Key words:** Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression,
+**Key words:** Pipeline, Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression,
 Model Evaluation, Statistical Correlation
