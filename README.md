@@ -30,7 +30,7 @@
 - **Results:** The Combination of Ridge Regression and Polynomial transformation applied to
 the top11 most correlated features resulted in the best model, with a score of 70%.
 
-- **Packages:** Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn
+- **Libraries:** Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn
 
 - **Keywords:** Pipeline, Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression,
 Model Evaluation, Statistical Correlation
