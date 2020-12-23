@@ -24,3 +24,6 @@
   R-squared of 64.8% with the test set data. Then, I trained a Ridge Model with
   the polynomial transformation of those same features, and I got a better model,
   with R-squared of 70%.
+
+**Results:**
+**Key words:**
