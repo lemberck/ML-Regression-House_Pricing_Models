@@ -1,4 +1,4 @@
-# --- Machine Learning - Regression: House Pricing Models Comparison ---
+# Machine Learning - Regression: House Pricing Models Comparison
 
   This is a full Data Science project with the objective to train
   and compare Machine Learning Regression Models for a House Sales in 
@@ -12,7 +12,7 @@
 
   Stage 4 was Model Development, where I created different
   regression models with different methods for comparison, using
-  a first one feature that had a weak correlation with the target
+   first one feature that had a weak correlation with the target
   then escalated until using the top 11 features most correlated to it.
   Also a pipeline was created to apply polynomial features transformation.
   Ridge regression and Polynomial Features transformation showed a significative
