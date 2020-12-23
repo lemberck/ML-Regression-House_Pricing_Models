@@ -1,6 +1,6 @@
 # Machine Learning - Regression: House Pricing Models Comparison
 
-**- Main Objective:** Perform the steps requested and find the best regression model.
+### Main Objective:** Perform the steps requested and find the best regression model.
 
   This is a full Data Science project with the objective to train
   and compare Machine Learning Regression Models for a House Sales in 
