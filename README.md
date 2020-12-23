@@ -27,4 +27,7 @@
 
 **Results:**
 
-**Key words:**
+**Packages:** Matplotlib, Seaborn, Pandas, Numpy, Scikit-learn 
+
+**Key words:** Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression,
+Model Evaluation, Statistical Correlation
